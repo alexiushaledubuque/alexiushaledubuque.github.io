@@ -1,3 +1,10 @@
 .modal-bg {
 	background-color: orange;
 }
+.pic-size {
+	height: 320px;
+}
+.profile-pic {
+	border: solid;
+	border-style: outset;
+}

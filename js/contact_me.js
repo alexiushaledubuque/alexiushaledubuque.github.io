@@ -67,6 +67,12 @@ $(function() {
     });
 });
 
+// // Adding the spinner
+// $('#spinner').show();
+
+// // Hide the spinner
+// $("#spinner").hide();
+
 // When clicking on Full hide fail/success boxes
 $('#name').focus(function() {
     $('#success').html('');

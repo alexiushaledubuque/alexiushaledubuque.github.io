@@ -12,8 +12,18 @@
 	text-align: left;
 	font-size: 20px;
 }
+.block {
+	text-align: left;
+	font-size: 18px;
+	padding-bottom: 4px;
+}
 .tech-details {
 	align-items: left;
+	margin: auto;
+}
+.line-items {
+	margin: auto;
+	font-size: 10px;
 }
 #spinner {
 	position: fixed;
